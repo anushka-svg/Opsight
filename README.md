@@ -9,8 +9,10 @@ The analysis focuses on identifying patterns related to delivery
 delays, customer ratings, seller performance, cancellations, and
 repeat purchasing.
 
-The goal is to transform raw marketplace data into actionable
-business insights and recommendations.
+The goal is to transform raw marketplace data into actionable,
+customer-focused recommendations: identify the largest customer
+problems, find where they originate, and prioritize the operational
+fixes most likely to improve customer experience.
 
 ## Business Problem
 
@@ -24,6 +26,7 @@ Management wants to understand:
 - Which sellers require operational attention?
 - How does delivery performance relate to customer experience?
 - How do customer experiences relate to repeat purchasing?
+- Which customer problem should be fixed first?
 
 ## Tools & Technologies
 
@@ -56,4 +59,7 @@ Management wants to understand:
 
 ## Project Status
 
-**In Progress — Phase 1: Business Understanding**
+**In Progress — Customer Experience Analysis**
+
+The first analysis files audit data quality, classify customer-impacting
+issues, and compare review scores for on-time and late deliveries.
